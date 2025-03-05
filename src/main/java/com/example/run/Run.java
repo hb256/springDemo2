@@ -1,4 +1,4 @@
-package run;
+package com.example.run;
 
 import java.time.LocalDateTime;
 
